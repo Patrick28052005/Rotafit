@@ -73,7 +73,6 @@ supabase/
  
 ## Autor
  
-**Artur Martins**
+**Patrick Costa**
  
-- LinkedIn: https://linkedin.com/in/artur-martins-5a7b3436a/
-- GitHub: https://github.com/arturrmsilva
+- GitHub: https://github.com/Patrick28052005
